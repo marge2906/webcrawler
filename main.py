@@ -6,6 +6,7 @@ import time
 import openpyxl
 import pandas as pd
 
+
 # Set your OpenAI API key
 api_key = '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'
 openai.api_key = api_key
